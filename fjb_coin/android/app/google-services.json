@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "137771926909",
+    "project_id": "fjbcoin-2f13b",
+    "storage_bucket": "fjbcoin-2f13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137771926909:android:4ad815a391656ad6c0b814",
+        "android_client_info": {
+          "package_name": "fjbcoin.org.fjb_coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137771926909-rs31fmilcab39bf8sqgbqfr0nn7oshh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3pOlQMfMPcIZwO8xveMNNBXhu8QGzEc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137771926909-rs31fmilcab39bf8sqgbqfr0nn7oshh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137771926909-ik5rchrqd9flik1smb34cch5h1uuf7td.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fjbcoin.org.fjbCoin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
